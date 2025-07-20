@@ -9,6 +9,7 @@ Templates for creating [isometric renders](https://minecraft.wiki/w/Help:Isometr
   * `irregular_legacy` - Irregular block model files for Blender 2.79
   * `legacy` - Block model files for Blender 2.79
 * `entities` - Models for entities
+* `mod` - Renders for blocks/entities from mods
 
 ## License
 
